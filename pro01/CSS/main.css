@@ -1,0 +1,115 @@
+.nav-link {
+    font-size: 15px;
+    margin-top: 8px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+.main-menu {
+    display: flex;
+    background-attachment: fixed;
+}
+
+.nav {
+    width: 60%;
+    white-space: nowrap;
+    margin-left: 500px;
+}
+
+#imglogo {
+    height: 50px;
+    width: 100%;
+}
+
+html,
+body,
+section.TEXT1 {
+    height: 100%;
+    background-color: black;
+    color: white;
+}
+
+ul li a {
+    text-align: right;
+}
+
+h1.WELCOMSYOU {
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 200px;
+    color: white;
+    font-size: 80px;
+}
+
+h1.MEKONGWATER {
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 100px;
+    color: white;
+    font-size: 80px;
+}
+
+p.Search {
+    text-align: center;
+    padding-bottom: 100px;
+    text-transform: uppercase;
+    color: white;
+    font-size: 20px;
+}
+
+h1.About {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.info {
+    padding-top: 40px;
+    text-align: center;
+}
+
+#demo {
+    padding-top: 90px;
+}
+
+.header-Text2 h1 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.header-Text2 p {
+    text-align: center;
+}
+
+.hydroimg {
+    margin-left: 140px;
+}
+
+.partnerimg {
+    margin-left: 160px;
+}
+
+.partner {
+    margin-left: 80px;
+}
+
+.hydro {
+    margin-left: 130px;
+}
+
+#Hydro1 {
+    text-align: center;
+}
+
+section.TEXT2 {
+    height: 100%;
+}
+
+.abc {
+    padding: 100px;
+}
+
+section h1 .abc {
+    margin-top: 30px;
+}
